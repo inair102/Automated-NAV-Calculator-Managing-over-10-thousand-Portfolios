@@ -14,5 +14,5 @@ To create 10,000 Portfolios, each aving 25 stock symbols and their quantities, a
 (Note: Paths given in the code are to be changed accordingly.)
 </ul>
 
-#Refernce
+#Reference
 EODStockstreamer uses a library written by [**natehefner**](https://github.com/natehefner/yahoostocks-java).
